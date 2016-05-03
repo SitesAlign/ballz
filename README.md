@@ -1,7 +1,8 @@
 #FoundationPress by olefredrik
 
-This is just a modified version of FoundationPress
+<p>This is a slightly modified version of FoundationPress by olefredrik</p>
 
-The Stylesheets are present and working for those who are not SASS ready
+<p>The difference is that this copy has the necessary StyleSheets and Javascripts within the assets folder for those who do not have SASS or is not familiar with SASS.</p>
 
-Test
+<p>I, in no way, take credit for this work. The original can be found <a href="https://github.com/olefredrik/FoundationPress">Here</a>. </p>
+
